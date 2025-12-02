@@ -13,7 +13,7 @@ It showcases my professional experience, skills, and online presence.
 
 ## Live Preview
 
-You can view the CV live here: [My CV](https://ntombifuthi-mashinini.github.io/Single-Page-CV/)
+You can view the CV live here: [My CV](https://ntombifuthi-mashinini.github.io/single-page-cv/)
 
 ## Project Structure
 
